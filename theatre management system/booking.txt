@@ -1,0 +1,5 @@
+|NAME| |PHONE NUMBER| |ROW#| |SEAT#| |TOKEN#|  |MOVIE|
+--------------------------------------------------------
+ZAHID	0321-5269512	5	8     107188	VENOM
+abbad	068565763	5	4     124699	INCEPTION
+Wasay   0370-3258912    7       3     543098    INTERSTELLAR
